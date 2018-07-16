@@ -1,2 +1,2 @@
 # Latihan-
-folder latihan selama liburan
+REPO UNTUK LATIHAN, HARAP MAKLUM
