@@ -12,3 +12,7 @@ h1{
     border-top-style: double;
     border-bottom-style: inset;
 }
+
+h1.pertama {
+    visibility: hidden;         /* tidak menampilkan, tetapi space di web masih kelihatan ada */
+}
