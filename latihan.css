@@ -12,7 +12,25 @@ h1{
     border-top-style: double;
     border-bottom-style: inset;
 }
-
+/*
 h1.pertama {
-    visibility: hidden;         /* tidak menampilkan, tetapi space di web masih kelihatan ada */
+    visibility: hidden;         //tidak menampilkan, tetapi space di web masih kelihatan ada
+} */
+h1.pertama{
+    background-color: rgb(135, 163, 108);
+}
+
+.clearfix {
+    border-color: lawngreen;
+    border-width: 10px;
+    border-style: solid;
+    margin-top: 5px;
+    overflow: auto;
+}
+
+img.gambar1 {
+    width: 720;
+    height: 360;
+    float: right;
+   padding: 10px;
 }
