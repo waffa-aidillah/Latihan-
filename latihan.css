@@ -1,0 +1,14 @@
+h1{
+    outline-style: inherit;
+    outline-color: green;
+    outline-offset: 5px;
+}
+h1.pertama {                  /* penggunaan class dengan attribute tertentu */
+    
+    color: goldenrod;
+}
+h1{
+    border: forestgreen;
+    border-top-style: double;
+    border-bottom-style: inset;
+}
