@@ -6,6 +6,7 @@ h1{
 h1.pertama {                  /* penggunaan class dengan attribute tertentu */
     
     color: goldenrod;
+    margin-bottom: 25px;
 }
 h1{
     border: forestgreen;
@@ -32,5 +33,8 @@ img.gambar1 {
     width: 720;
     height: 360;
     float: right;
-   padding: 10px;
+    margin: 10px;
+    max-width: 100%;        /*ukuran akan membesar, tapi kalau udah max ukuran asli, maka tetap */
+    /*width: 100px; */      /*ukuran akan melebar sampai max layar */
+    
 }
